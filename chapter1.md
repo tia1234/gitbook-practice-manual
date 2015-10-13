@@ -6,7 +6,35 @@ This chapter covers how to add new files, pages, and images to your book by usin
 [ok]: https://www.google.ca "Google"
 
 ### Chapters
-To create a new chapter, simply right-click on the table of contents area and a button will appear saying "new chapter". It looks like this:
+To create a new chapter, right-click on the table of contents area and a button will appear saying "new chapter". It looks like this:
 
 ![hello](Untitled.png "Hallo")
+
+##Code View
+go here [womp][wo] for more info
+
+>womp
+>
+>>womp 
+>>>womp  
+>
+>>womp
+>
+>womp  
+
+[wo]: http://daringfireball.net/projects/markdown/syntax "womp"
+
+
+    ##code view
+    go here [womp][wo] for more info
+    >womp
+    >
+    >>womp 
+    >>>womp  
+    >
+    >>womp
+    >
+    >womp  
+    http://daringfireball.net/projects/markdown/syntax
+    
 
