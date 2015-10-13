@@ -11,7 +11,7 @@ To create a new chapter, right-click on the table of contents area and a button 
 ![hello](Untitled.png "Hallo")
 
 ##Code View
-go here [womp][wo] for more info
+go here [womp][womp] for more info
 
 >womp
 >
@@ -22,7 +22,7 @@ go here [womp][wo] for more info
 >
 >womp  
 
-[wo]: http://daringfireball.net/projects/markdown/syntax "womp"
+[womp]: http://daringfireball.net/projects/markdown/syntax "womp"
 
 
     ##code view
